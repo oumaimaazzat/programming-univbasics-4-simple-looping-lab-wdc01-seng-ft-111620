@@ -6,8 +6,10 @@ def loop_message_five_times(message)
   puts "Hello World!"
 end
  
-def loop_message_n_times(message, integer)
-  
+def loop_message_n_times(message, number)
+  puts "Hello Moon"
+  puts "Hello Moon"
+  puts "Hello Moon"
 end
 
 def output_array
