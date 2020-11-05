@@ -6,7 +6,7 @@ def loop_message_five_times(message)
   puts "Hello World!"
 end
  
-def loop_message_n_times(message, n)
+def loop_message_n_times(message, integer)
   
 end
 
