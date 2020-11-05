@@ -10,7 +10,8 @@ def loop_message_n_times(message, number)
  number.times { puts message }
 end
 
-def output_array
+def output_array(message, number)
+  
   
 end 
 
